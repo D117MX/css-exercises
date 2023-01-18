@@ -1,0 +1,21 @@
+p {
+    background-color: rgb(255, 182, 193);
+    font: verdana;
+    font: DejaVu sans;
+    font: Sans-serif;
+}
+
+.div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.num3 {
+    font-size: 24px;
+}
+
+.div2 {
+    background-color: rgb(110, 220, 86);
+    font-size: 24px;
+    font-style: bold;
+}
